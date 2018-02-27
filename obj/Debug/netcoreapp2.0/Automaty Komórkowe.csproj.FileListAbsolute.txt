@@ -1,0 +1,10 @@
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\bin\Debug\netcoreapp2.0\Automaty Komórkowe.deps.json
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\bin\Debug\netcoreapp2.0\Automaty Komórkowe.runtimeconfig.json
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\bin\Debug\netcoreapp2.0\Automaty Komórkowe.runtimeconfig.dev.json
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\bin\Debug\netcoreapp2.0\Automaty Komórkowe.dll
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\bin\Debug\netcoreapp2.0\Automaty Komórkowe.pdb
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\obj\Debug\netcoreapp2.0\Automaty Komórkowe.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\obj\Debug\netcoreapp2.0\Automaty Komórkowe.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\obj\Debug\netcoreapp2.0\Automaty Komórkowe.AssemblyInfo.cs
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\obj\Debug\netcoreapp2.0\Automaty Komórkowe.dll
+C:\Users\Michał\Desktop\MVSC\Automaty Komórkowe\obj\Debug\netcoreapp2.0\Automaty Komórkowe.pdb
