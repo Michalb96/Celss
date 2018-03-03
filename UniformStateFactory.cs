@@ -22,6 +22,6 @@ namespace Automaty_Komórkowe
         }
         }
 */
-        public Enum Unit => throw new NotImplementedException();
+        public Enum cState => throw new NotImplementedException();
     }
 }

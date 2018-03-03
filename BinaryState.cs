@@ -19,7 +19,7 @@ namespace Automaty_Komórkowe
 
         private state Dead = state.Dead;
         private state Alive = state.Alive;
-        public Enum Unit{ get{ 
+        public Enum cState{ get{ 
             if( x==0 )
                 return Dead ; 
             
